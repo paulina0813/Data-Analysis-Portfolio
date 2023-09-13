@@ -38,7 +38,6 @@ In this section, I will provide a list of relevant project, along with the descr
   * [Powerpoint Presentation](https://github.com/paulina0813/Portfolio-Projects/blob/27a1c1dfcf5db8d20f674f65aa7857f37a1569b8/Case%20Studies/Case%20Study%201%20-%20Cyclistic/Cyclistic%20Case%20Study%20Presentation.pdf)
   * [Tableau Visualizations](https://github.com/paulina0813/Portfolio-Projects/blob/27a1c1dfcf5db8d20f674f65aa7857f37a1569b8/Case%20Studies/Case%20Study%201%20-%20Cyclistic/Tableau%20Visualizations%20Cyclistic%20Case%20Study.md)
 
-<a name="Bellabeat-Project"></a>
  ### Bellabeat - How Can a Wellness Technology Company Play It Smart?
 
 * **Goal:** Analyze smart device data to gain insight into how consumers are using their smart devices, and provide recommendations to guide marketing strategy for the company.
