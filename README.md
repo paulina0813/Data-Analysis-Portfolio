@@ -15,7 +15,7 @@ This repository stands as a testament to my skills, a platform for sharing signi
 * [About](#About)
 * [Portfolio Projects](#Portfolio-Projects)
   * [SQL](#Bellabeat)
-  * [R](#Cyclistic---How-does-a-bike-share-navigate-speedy-success?)
+  * [R](#Cyclistic--How-does-a-bike-share-navigate-speedy-success)
   * [Excel / Google Sheets](#Bellabeat---How-Can-a-Wellness-Technology-Company-Play-It-Smart?)
   * [Tableau](#Portfolio-Projects)
   * [Python](#Bellabeat---How-Can-a-Wellness-Technology-Company-Play-It-Smart?)
@@ -38,7 +38,7 @@ In this section, I will provide a list of relevant project, along with the descr
   * [Powerpoint Presentation](https://github.com/paulina0813/Portfolio-Projects/blob/27a1c1dfcf5db8d20f674f65aa7857f37a1569b8/Case%20Studies/Case%20Study%201%20-%20Cyclistic/Cyclistic%20Case%20Study%20Presentation.pdf)
   * [Tableau Visualizations](https://github.com/paulina0813/Portfolio-Projects/blob/27a1c1dfcf5db8d20f674f65aa7857f37a1569b8/Case%20Studies/Case%20Study%201%20-%20Cyclistic/Tableau%20Visualizations%20Cyclistic%20Case%20Study.md)
 
- ### Bellabeat
+ ### Bellabeat - How Can a Wellness Technology Company Play It Smart?
 
 * **Goal:** Analyze smart device data to gain insight into how consumers are using their smart devices, and provide recommendations to guide marketing strategy for the company.
 * **Desciption:** The database provided 18 different .CSV files. All files were cleaned and revised, for the analysis 5 of those .CSV files were selected. The data ranges from April 12, 2016 to May 12, 2016, and it tracks the activities, calories burnt, sleep, steps, and weight for 33 FitBit users.
