@@ -14,11 +14,11 @@ This repository stands as a testament to my skills, a platform for sharing signi
 
 * [About](#About)
 * [Portfolio Projects](#Portfolio-Projects)
-  * [SQL](#Bellabeat)
+  * [SQL](#Bellabeat---How-Can-a-Wellness-Technology-Company-Play-It-Smart)
   * [R](#Cyclistic---How-does-a-bike-share-navigate-speedy-success)
-  * [Excel / Google Sheets](#Bellabeat---How-Can-a-Wellness-Technology-Company-Play-It-Smart?)
+  * [Excel / Google Sheets](#Bellabeat---How-Can-a-Wellness-Technology-Company-Play-It-Smart)
   * [Tableau](#Portfolio-Projects)
-  * [Python](#Bellabeat---How-Can-a-Wellness-Technology-Company-Play-It-Smart?)
+  * [Python](#Bellabeat---How-Can-a-Wellness-Technology-Company-Play-It-Smart)
 * [Certificates](#Certifications)
 * [Contact](#Contact)
 
