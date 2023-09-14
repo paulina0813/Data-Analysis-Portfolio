@@ -23,7 +23,7 @@ This repository stands as a testament to my skills, a platform for sharing signi
 * [Contact](#Contact)
 
 ## Portfolio Projects
-In this section, I will provide a list of relevant project, along with the description, the goal, the relevant documentation (code, notebooks, etc), the technology that was used, and the result of the analysis.
+In this section, I will provide a list of relevant projects, along with the description, the goal, the relevant documentation (code, notebooks, etc), the technology that was used, and the result of the analysis. Additionally, I would like to incorporate a [Tableau portfolio](https://public.tableau.com/app/profile/paulina.remis) into this section to showcase my data visualization skills and projects.
 
 ### Cyclistic - How does a bike-share navigate speedy success?
 
